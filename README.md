@@ -71,3 +71,12 @@ git commit -m "updated readme"
  1 file changed, 1 insertion(+)
  
 git push origin master
+
+pwd
+ls
+cd Test-8-1-2019
+ls
+git status
+git add .
+git commit -m "updated"
+git push origin master
