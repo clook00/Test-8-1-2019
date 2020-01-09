@@ -35,3 +35,12 @@ git config --global --list
 user.name=clook00
 user.email=clook00@mylangara.ca
 
+git clone https://github.com/clook00/Test-8-1-2019.git
+Cloning into 'Test-8-1-2019'...
+remote: Enumerating objects: 15, done.
+remote: Counting objects: 100% (15/15), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 15 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (15/15), done.
+
+cd Test-8-1-2019 --> ls --> README.md
