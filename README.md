@@ -80,3 +80,7 @@ git status
 git add .
 git commit -m "updated"
 git push origin master
+
+Pull request
+A: Repository (Python features) --> Approve --> Merge the pull request
+B: 1) Fork the repository (Python features) --> 2) git clone [link] --> 3) Edit the local copy --> 4) git push --> 5) New local copy --> 6) Pull request
