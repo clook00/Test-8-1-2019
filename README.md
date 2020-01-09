@@ -14,3 +14,5 @@ Testing
 ```
 code
 ```
+gitbash --> pwd --> file location
+
